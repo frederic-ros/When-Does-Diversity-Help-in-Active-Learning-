@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "alframework"
+authors:
+  - family-names: "Ros"
+    given-names: "Frederic"
+version: 0.1.0
+license: MIT
